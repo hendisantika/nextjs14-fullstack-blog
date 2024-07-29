@@ -1,0 +1,1 @@
+export const mongo_uri = 'mongodb+srv://ranggo123:ranggo123@project-blogs.ctydcgv.mongodb.net/blogs?retryWrites=true&w=majority&appName=project-blogs'
